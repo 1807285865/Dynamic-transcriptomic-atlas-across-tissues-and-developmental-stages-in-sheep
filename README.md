@@ -1,2 +1,2 @@
-# Dynamic-transcriptomic-atlas-across-tissues-and-developmental-stages-in-sheep
+# Dynamic transcriptomic atlas across tissues and developmental stages in sheep
 
